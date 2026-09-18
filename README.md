@@ -74,6 +74,7 @@ Firmante del CLA de Odoo. Reporto y trabajo bugs del core (issues en `project`, 
 
 Siempre estoy abierto a colaborar en proyectos de ERP, Rust o IoT.
 Si te interesa aportar, revisa mis repos o abre un PR en cualquiera de ellos.
+
 `Rev. A · 2026`
 
 </div>
